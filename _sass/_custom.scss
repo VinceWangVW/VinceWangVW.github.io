@@ -1,3 +1,6 @@
+/* Custom overrides for my site */
+
+/* Only on the home page (layout: home), hide the big H1 page title */
 .layout--home .page__title {
   display: none;
 }
