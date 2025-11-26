@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: single
-title: "About Me"
+title: "Vince Wang"
 author_profile: true
 redirect_from: 
   - /about/
