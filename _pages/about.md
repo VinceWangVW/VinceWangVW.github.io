@@ -19,7 +19,7 @@ I am currently advised by **Prof. [Fan Zhang](https://openreview.net/profile?id=
 
 ## Research Interests
 
-In the short term, my goal is to **strengthen my research methodology**. I have worked in different labs with different advisors on both mainstream topics such as large language models (LLMs) and vision-language models (VLMs), as well as less mainstream areas including causal inference and spatiotemporal forecasting.
+In the short term, my goal is to **strengthen my research methodology**. I have worked in different labs with different advisors on both mainstream topics such as large language models and vision-language models, as well as less mainstream areas including causal inference and spatiotemporal forecasting.
 
 In the long term, my primary research goal is to **advance efficient scientific computing through deep learning**.
 
