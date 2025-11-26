@@ -1,5 +1,7 @@
 ---
+layout: home
 permalink: /
+title: "GLOBAL TOP SCIENTIST"
 author_profile: true
 redirect_from: 
   - /about/
