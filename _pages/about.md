@@ -15,7 +15,7 @@ I am currently a third-year undergraduate student majoring in Artificial Intelli
 
 My first advisor was **Prof. [Wei Li](http://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496659.html)**. Under his supervision, I developed my core research intuition and methodology. Any of my current and future work is fundamentally built on what I learned from him. He is my *academic parent*, and I remain deeply grateful to him.
 
-I am currently advised by **Prof. [Fan Zhang](https://openreview.net/profile?id=~Fan_Zhang81)** on scientific computing. Specifically, we aim to use deep learning as a relatively low-cost yet high-accuracy alternative to traditional DNS / LES / RANS for high-Reynolds-number fluid simulations. I am now making modest contributions toward this long-term vision.
+I am currently advised by **Prof. [Fan Zhang](https://sites.mit.edu/fzhang/)** on scientific computing. Specifically, we aim to use deep learning as a relatively low-cost yet high-accuracy alternative to traditional DNS / LES / RANS for high-Reynolds-number fluid simulations. I am now making modest contributions toward this long-term vision.
 
 ## Research Interests
 
