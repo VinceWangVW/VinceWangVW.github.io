@@ -23,14 +23,3 @@ In the short term, my goal is to **strengthen my research methodology**. I have 
 
 In the long term, my primary research goal is to **advance efficient scientific computing through deep learning**.
 
-## Competitions
-
-- **Kaggle · Yale / UNC-Chapel Hill – Geophysical Waveform Inversion**  
-  *Bronze Medal*, rank **81 / 1365** (Top **5.9%**), **2025**
-
-- **Kaggle · NeurIPS – Ariel Data Challenge**  
-  *Silver Medal*, rank **49 / 1151** (Top **4.3%**), **2024**
-
-- **Kaggle · Home Credit – Credit Risk Model Stability**  
-  *Silver Medal*, rank **23 / 3856** (Top **0.6%**), **2024**
-
