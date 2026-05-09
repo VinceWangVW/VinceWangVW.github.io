@@ -19,7 +19,6 @@ I am currently advised by **Prof. [Fan Zhang](https://sites.mit.edu/fzhang/)** o
 
 ## Research Interests
 
-In the short term, my goal is to **strengthen my research methodology**. I have worked in different labs with different advisors on both mainstream topics such as large language models and vision-language models, as well as less mainstream areas including causal inference and spatiotemporal forecasting.
+My research focuses on **deep learning for scientific computing**, especially neural PDE simulation, spatiotemporal forecasting, and representation learning for physical fields.
 
-In the long term, my primary research goal is to **advance efficient scientific computing through deep learning**.
-
+My long-term goal is to rethink scientific simulation as a problem of **state, observation, and structure design**, so that learned simulators can become more efficient, reliable, and physically faithful.
