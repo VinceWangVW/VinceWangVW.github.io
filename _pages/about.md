@@ -23,6 +23,9 @@ My research focuses on **deep learning for scientific computing**, especially ne
 
 My long-term goal is to rethink scientific simulation as a problem of **state, observation, and structure design**, so that learned simulators can become more efficient, reliable, and physically faithful.
 
-<small>
-Beyond this core direction, I am also interested in meaningful and intellectually engaging problems in other areas of AI, including knowledge distillation, LLM reasoning, and causality. I have pursued these interests through several projects on distillation loss, latent-state reasoning, and causal text generation.
-</small>
+<details>
+<summary><small>Other research interests</small></summary>
+
+I also pursue selected problems beyond this core agenda when they expose fundamental issues in learning systems, such as what knowledge distillation loses, how LLMs reason, and how causal structure can be encoded in text generation.
+
+</details>
