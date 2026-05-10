@@ -22,3 +22,7 @@ I am currently advised by **Prof. [Fan Zhang](https://sites.mit.edu/fzhang/)** o
 My research focuses on **deep learning for scientific computing**, especially neural PDE simulation, spatiotemporal forecasting, and representation learning for physical fields.
 
 My long-term goal is to rethink scientific simulation as a problem of **state, observation, and structure design**, so that learned simulators can become more efficient, reliable, and physically faithful.
+
+<small>
+Beyond this core direction, I am also interested in meaningful and intellectually engaging problems in other areas of AI, including knowledge distillation, LLM reasoning, and causality. I have pursued these interests through several projects on distillation loss, latent-state reasoning, and causal text generation.
+</small>
