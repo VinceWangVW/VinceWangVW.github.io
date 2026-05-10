@@ -26,6 +26,6 @@ My long-term goal is to rethink scientific simulation as a problem of **state, o
 <details>
 <summary><small>Other research interests</small></summary>
 
-I also pursue selected problems beyond this core agenda when they expose fundamental issues in learning systems, such as what knowledge distillation loses, how LLMs reason, and how causal structure can be encoded in text generation.
+Beyond this core direction, I am also interested in meaningful and intellectually engaging problems in other areas of AI, including knowledge distillation, LLM reasoning, and causality. I have pursued these interests through several projects on distillation loss, latent-state reasoning, and causal text generation.
 
 </details>
