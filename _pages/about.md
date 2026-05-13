@@ -19,9 +19,11 @@ I am currently advised by **Prof. [Fan Zhang](https://sites.mit.edu/fzhang/)** o
 
 ## Research Interests
 
-My research focuses on **deep learning for scientific computing**, especially neural PDE simulation, spatiotemporal forecasting, and representation learning for physical fields.
+My research focuses on **deep learning for scientific computing**, especially neural PDE simulation and learned modeling of physical-field dynamics.
 
-My long-term goal is to rethink scientific simulation as a problem of **state, observation, and structure design**, so that learned simulators can become more efficient, reliable, and physically faithful.
+I study neural simulators as complete scientific-computing systems rather than isolated architectures: how physical states are observed, represented, compressed, and evolved determines what a learned simulator can recover, preserve, and predict.
+
+My long-term goal is to develop **state-, observation-, and structure-aware principles** for efficient, reliable, and physically faithful scientific simulation under incomplete observations and practical computational budgets.
 
 <details>
 <summary><small>Other research interests</small></summary>
